@@ -66,6 +66,7 @@ Displays:
 - Sends data to the web server via API
 
 🗂️ Project Structure
+
 <img width="635" height="464" alt="image" src="https://github.com/user-attachments/assets/5b21bad2-23f0-4395-a386-e86879ec7f96" />
 
 
