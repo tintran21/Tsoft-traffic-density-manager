@@ -1,5 +1,6 @@
 Tsoft Traffic Density Manager
 TRAFFIC MONITORING AND TRAFFIC LIGHT CONTROL SUPPORT SYSTEM
+
 📌 Project Overview
 
 Tsoft Traffic Density Manager is a web-based traffic monitoring and traffic light control support system that uses vehicle density data extracted from camera images.
