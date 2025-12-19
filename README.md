@@ -66,21 +66,8 @@ Displays:
 - Sends data to the web server via API
 
 🗂️ Project Structure
-giaothong/
-├─ admin/                     # Admin dashboard
-├─ imageluuluong/             # Traffic image folders
-│   ├─ bac/
-│   ├─ nam/
-│   ├─ dong/
-│   └─ tay/
-├─ api_luuluong.php           # API to receive traffic data
-├─ api_get_images.php         # API to retrieve image list
-├─ database.php               # Database configuration
-├─ index.php                  # Main web interface
-├─ login.php                  # Login page
-├─ logout.php                 # Logout
-├─ traffic_counter.py         # Python vehicle counting script
-└─ yolov8n.pt                 # YOLOv8 model
+<img width="635" height="464" alt="image" src="https://github.com/user-attachments/assets/5b21bad2-23f0-4395-a386-e86879ec7f96" />
+
 
 ⚙️ System Requirements & Installation
 🔹 Web Server & Database
