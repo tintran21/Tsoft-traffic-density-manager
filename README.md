@@ -31,6 +31,7 @@ Admin
 Guest
 - View traffic data and traffic light status only
 - No permission to control or modify the system
+
 ➡️ This ensures system security and proper authorization.
 
 2️⃣ Traffic Monitoring
