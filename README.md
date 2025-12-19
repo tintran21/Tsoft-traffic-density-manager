@@ -44,11 +44,15 @@ The system supports two control modes:
 
 🔹 Automatic Control
 Traffic light timing is adjusted based on traffic density
+
 Directions with higher vehicle volume receive longer green time
+
 Helps reduce congestion and improve traffic flow
 
 🔹 Manual Control (Admin)
+
 Admin can manually override traffic lights
+
 Used for special situations such as peak hours or emergencies
 
 4️⃣ Data Visualization & Statistics
@@ -74,13 +78,19 @@ Displays:
 
 ⚙️ System Requirements & Installation
 🔹 Web Server & Database
+
 XAMPP (recommended)
+
 Apache Web Server
+
 MySQL / MariaDB
+
 PHP ≥ 7.x
 MySQL port: 3307
+
 Web server port:
 Default: 80
+
 If port 80 is unavailable, change to 8080 or another port
 
 📌 Apache port can be configured in httpd.conf.
@@ -88,7 +98,9 @@ If port 80 is unavailable, change to 8080 or another port
 🔹 Python Environment
 Required libraries:
 pip install ultralytics
+
 pip install requests
+
 The Python script uses:
 - YOLOv8 (ultralytics)
 - requests, os, time, random
@@ -96,13 +108,21 @@ The Python script uses:
 🔄 System Workflow
 
 Start XAMPP
+
 Run Apache
+
 Run MySQL (Database port: 3307)
+
 Open phpMyAdmin
+
 Ex: http://localhost:8080/phpmyadmin
+
 Open the web system in a browser
+
 Ex: http://localhost:8080/giaothong/index.php
+
 Run the Python script:
+
 python traffic_counter.py
 
 The Python script:
@@ -118,22 +138,33 @@ The website:
 - The process repeats periodically (default: every 20 seconds)
 
 🧪 Error Handling & Safety
+
 The Python script detects and logs errors when:
+
 Image folders do not exist
+
 No images are found
+
 API connection fails
+
 Errors do not stop the system
+
 Web access is controlled based on user roles
 
 🧠 Future Improvements
 
 Intelligent traffic light control algorithms (AI, Fuzzy Logic, Reinforcement Learning)
+
 Real-time camera integration (IP cameras)
+
 Multi-intersection support
+
 Map integration (Google Maps / OpenStreetMap)
 
 📞 Contact & Contribution
 
 If you encounter issues or want to contribute:
+
 Please create an Issue on GitHub
+
 Or contact the project author directly
