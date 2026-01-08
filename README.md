@@ -162,8 +162,9 @@ Multi-intersection support
 
 Map integration (Google Maps / OpenStreetMap)
 
-📞 Contact & Contribution
+📞 Contact
 
 Email: thuanthuan8a3@gmail.com
+
 Email: trantin2114@gmail.com
 
