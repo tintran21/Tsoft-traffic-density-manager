@@ -164,8 +164,6 @@ Map integration (Google Maps / OpenStreetMap)
 
 📞 Contact & Contribution
 
-If you encounter issues or want to contribute:
+Email: thuanthuan8a3@gmail.com
+Email: trantin2114@gmail.com
 
-Please create an Issue on GitHub
-
-Or contact the project author directly
